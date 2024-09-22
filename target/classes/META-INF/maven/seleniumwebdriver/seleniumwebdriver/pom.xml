@@ -23,9 +23,8 @@
             <suiteXmlFiles>
             	<suiteXmlFile>testng2.xml</suiteXmlFile>            
             </suiteXmlFiles>
-          </configuration>
-           
-        </plugin>
+           </configuration>
+          </plugin>
         
       </plugins>
     </pluginManagement>
